@@ -1,0 +1,18 @@
+@font-face {
+	font-family: bndr_reg;
+	src: url('fonts/bndr_reg.otf')
+}
+
+@font-face {
+	font-family: bndr_bold;
+	src: url('fonts/bndr_bold.otf')
+}
+
+@font-face {
+	font-family: tarkov;
+	src: url('fonts/tarkov_iwolf.ttf')
+}
+
+html, body {
+	font-family: bndr_reg, courier;
+}
